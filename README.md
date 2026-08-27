@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Wynn — Independent Developer, AI Explorer and Product Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3977DF,52:7A6FC0,100:F19A68&height=220&section=header&text=Hi%2C%20I'm%20Wynn&fontSize=48&fontColor=FFFAF4&animation=fadeIn&fontAlignY=36&desc=INDEPENDENT%20DEVELOPER%20%C2%B7%20AI%20EXPLORER%20%C2%B7%20PRODUCT%20BUILDER&descSize=19&descAlignY=57" alt="Wynn animated profile banner" />
+</p>
+
+<p align="center">
+  <a href="https://rongtaocheng32-ctrl.github.io/wynn-homepage/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A6FC0&center=true&vCenter=true&width=900&lines=AI-native+Product+Workflows+%7C+Browser-based+Creative+Tools;Reusable+Agent+Skills+%7C+Small+Products+with+Real+Utility;Turning+Ideas+into+Useful+Independent+Products" alt="Wynn typing introduction" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rongtaocheng32-ctrl"><img src="https://img.shields.io/badge/GitHub-rongtaocheng32--ctrl-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
   <a href="mailto:rongtaocheng32@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+  <a href="https://rongtaocheng32-ctrl.github.io/wynn-homepage/"><img src="https://img.shields.io/badge/Website-Visit%20My%20Site-7A6FC0?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Wynn's personal website" /></a>
   <img src="https://img.shields.io/badge/Location-Beijing-1677ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Beijing" />
   <img src="https://komarev.com/ghpvc/?username=rongtaocheng32-ctrl&style=flat-square&color=7c72dc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
