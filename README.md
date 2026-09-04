@@ -10,10 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/rongtaocheng32-ctrl"><img src="https://img.shields.io/badge/GitHub-rongtaocheng32--ctrl-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
-  <a href="mailto:rongtaocheng32@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
   <a href="https://rongtaocheng32-ctrl.github.io/wynn-homepage/"><img src="https://img.shields.io/badge/Website-Visit%20My%20Site-7A6FC0?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Wynn's personal website" /></a>
+  <a href="mailto:rongtaocheng32@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
   <img src="https://img.shields.io/badge/Location-Beijing-1677ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Beijing" />
-  <img src="https://komarev.com/ghpvc/?username=rongtaocheng32-ctrl&style=flat-square&color=7c72dc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ## 关于我
